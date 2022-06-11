@@ -1,0 +1,51 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.bootstrap5.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.bootstrap5.min.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.dataTables.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.dataTables.min.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.foundation.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.foundation.min.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.jqueryui.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.jqueryui.min.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.semanticui.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.semanticui.min.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\css\jquery.dataTables.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\css\jquery.dataTables.min.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\images\sort_asc.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\images\sort_asc_disabled.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\images\sort_both.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\images\sort_desc.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\images\sort_desc_disabled.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.bootstrap.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.bootstrap.min.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.bootstrap4.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.bootstrap4.min.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.bootstrap5.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.bootstrap5.min.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.bulma.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.bulma.min.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.dataTables.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.dataTables.min.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.foundation.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.foundation.min.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.jqueryui.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.jqueryui.min.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.semanticui.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.semanticui.min.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\js\jquery.dataTables.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\DataTables-1.12.1\js\jquery.dataTables.min.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\datatables.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\datatables.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\datatables.min.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\DataTables\datatables.min.js" />
+    </ItemGroup>
+
+</Project>
