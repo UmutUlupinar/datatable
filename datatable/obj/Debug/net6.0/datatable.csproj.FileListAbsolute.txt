@@ -24,3 +24,5 @@ C:\Users\lenovo\RiderProjects\datatable\datatable\obj\Debug\net6.0\refint\datata
 C:\Users\lenovo\RiderProjects\datatable\datatable\obj\Debug\net6.0\datatable.pdb
 C:\Users\lenovo\RiderProjects\datatable\datatable\obj\Debug\net6.0\datatable.genruntimeconfig.cache
 C:\Users\lenovo\RiderProjects\datatable\datatable\obj\Debug\net6.0\ref\datatable.dll
+C:\Users\lenovo\RiderProjects\datatable\datatable\bin\Debug\net6.0\Bogus.dll
+C:\Users\lenovo\RiderProjects\datatable\datatable\obj\Debug\net6.0\datatable.csproj.CopyComplete

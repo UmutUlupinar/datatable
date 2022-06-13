@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics;
+using datatable.Data;
 using Microsoft.AspNetCore.Mvc;
 using datatable.Models;
 
@@ -15,7 +16,8 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        var model= EmployeeSeedData.GetSampleData();
+        return View(model);
     }
 
     public IActionResult Privacy()

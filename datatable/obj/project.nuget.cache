@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JuH89Zw8l3dHUCjk/e6m5JKyhw3qO2Q5HHE5qZMkEv0acCzpv6M3lajdMnvGZNhHv5ubveY4A1U7sggPWXy8Og==",
+  "dgSpecHash": "CDqUl8K4Y1oC10vEwesIvqn1lRPYUpxejMZ7y63clc1TV6ljoYd5YWezt+sBHMAxiODpcWzUoKDx4YSPn9pjWw==",
   "success": true,
   "projectFilePath": "C:\\Users\\lenovo\\RiderProjects\\datatable\\datatable\\datatable.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
